@@ -34,7 +34,7 @@ Chú ý sau khi cài xong sẽ ko run được thì khai báo port cho nó lện
 
 [root@vps190651 conf]# rm -rf /usr/local/directadmin/conf/license.key
 
-[root@vps190651 conf]# wget -O /usr/local/directadmin/conf/license.key https://www.plesk.com.vn/license.key
+[root@vps190651 conf]# wget -O /usr/local/directadmin/conf/license.key https://github.com/crackda/da153/raw/master/key/license.key
 
 [root@vps190651 conf]# chmod 600 /usr/local/directadmin/conf/license.key
 
